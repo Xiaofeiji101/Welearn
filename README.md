@@ -1,2 +1,1 @@
-# Welearn
-auto
+Auto click and scroll
